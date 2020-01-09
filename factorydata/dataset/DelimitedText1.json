@@ -21,7 +21,27 @@
 		},
 		"schema": [
 			{
-				"name": "Code_commune_INSEE;Nom_commune;Code_postal;Libelle_acheminement;Ligne_5;coordonnees_gps",
+				"name": "Code_commune_INSEE",
+				"type": "String"
+			},
+			{
+				"name": "Nom_commune",
+				"type": "String"
+			},
+			{
+				"name": "Code_postal",
+				"type": "String"
+			},
+			{
+				"name": "Libelle_acheminement",
+				"type": "String"
+			},
+			{
+				"name": "Ligne_5",
+				"type": "String"
+			},
+			{
+				"name": "coordonnees_gps",
 				"type": "String"
 			}
 		]
